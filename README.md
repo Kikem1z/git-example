@@ -9,3 +9,5 @@ through github, you can view the commits.
 
 How to check if a file is tracked and if not, then track it?
 with git-status and if not then you can use git add.
+
+hasjjaa
